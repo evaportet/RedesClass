@@ -1,7 +1,7 @@
-#include "ConsoleControl.h"
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
+#include "ConsoleControl.h"
 
 void ConsoleControl::SetColor(ConsoleColor ForeColor, ConsoleColor BackColor)
 {
