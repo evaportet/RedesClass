@@ -1,9 +1,10 @@
 #pragma once
 #include <mutex>
 #include <iostream>
+#include <mutex>
 #include <sstream>
 
-#define KB_ENTER 13
+#define KB_Enter 13
 #define KB_UP 72
 #define KB_DOWN 80
 #define KB_LEFT 75
